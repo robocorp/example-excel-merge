@@ -1,4 +1,5 @@
 *** Settings ***
+Library  RPA.FileSystem
 Library  RPA.Robocloud.Items
 Library  PandasUtils.py
 
@@ -16,6 +17,8 @@ Search Repeated Speeding
 *** Tasks ***
 Get License Plates For Repeated Speeding
     Search Repeated Speeding    2021-01-01    2021-01-02    Tickets
+    
+    Create Directory    output    exist_ok=True
     Write Excel    Tickets    output/tickets.xlsx
 
     ${Tickets}=    Get Data As Dict    Tickets
