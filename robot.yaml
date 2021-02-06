@@ -1,0 +1,12 @@
+tasks:
+  Default:
+    robotTaskName: Get License Plates For Repeated Speeding
+
+condaConfigFile: conda.yaml
+artifactsDir: output
+PATH:
+  - .
+PYTHONPATH:
+  - .
+ignoreFiles:
+  - .gitignore

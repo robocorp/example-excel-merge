@@ -1,0 +1,225 @@
+{
+    "1": {
+        "1": {
+            "variables": {
+                "tickets": [
+                    {
+                        "License plate": "CBM-523",
+                        "Speed_x": 83,
+                        "Speed_y": 91
+                    },
+                    {
+                        "License plate": "IKW-626",
+                        "Speed_x": 92,
+                        "Speed_y": 94
+                    },
+                    {
+                        "License plate": "ILP-547",
+                        "Speed_x": 85,
+                        "Speed_y": 82
+                    },
+                    {
+                        "License plate": "VBR-135",
+                        "Speed_x": 85,
+                        "Speed_y": 88
+                    },
+                    {
+                        "License plate": "POW-507",
+                        "Speed_x": 87,
+                        "Speed_y": 97
+                    },
+                    {
+                        "License plate": "HTJ-108",
+                        "Speed_x": 98,
+                        "Speed_y": 88
+                    },
+                    {
+                        "License plate": "FAM-679",
+                        "Speed_x": 103,
+                        "Speed_y": 100
+                    },
+                    {
+                        "License plate": "CKH-523",
+                        "Speed_x": 91,
+                        "Speed_y": 82
+                    },
+                    {
+                        "License plate": "DZU-075",
+                        "Speed_x": 95,
+                        "Speed_y": 89
+                    },
+                    {
+                        "License plate": "PFI-115",
+                        "Speed_x": 83,
+                        "Speed_y": 86
+                    },
+                    {
+                        "License plate": "SOE-772",
+                        "Speed_x": 92,
+                        "Speed_y": 82
+                    },
+                    {
+                        "License plate": "IQC-669",
+                        "Speed_x": 94,
+                        "Speed_y": 94
+                    },
+                    {
+                        "License plate": "EYJ-573",
+                        "Speed_x": 90,
+                        "Speed_y": 82
+                    },
+                    {
+                        "License plate": "TQP-008",
+                        "Speed_x": 84,
+                        "Speed_y": 97
+                    },
+                    {
+                        "License plate": "GDY-416",
+                        "Speed_x": 89,
+                        "Speed_y": 100
+                    },
+                    {
+                        "License plate": "LJR-509",
+                        "Speed_x": 84,
+                        "Speed_y": 87
+                    },
+                    {
+                        "License plate": "YOP-542",
+                        "Speed_x": 87,
+                        "Speed_y": 84
+                    },
+                    {
+                        "License plate": "OYB-938",
+                        "Speed_x": 85,
+                        "Speed_y": 91
+                    },
+                    {
+                        "License plate": "ZQQ-849",
+                        "Speed_x": 83,
+                        "Speed_y": 112
+                    },
+                    {
+                        "License plate": "JYB-450",
+                        "Speed_x": 85,
+                        "Speed_y": 90
+                    },
+                    {
+                        "License plate": "LXY-513",
+                        "Speed_x": 82,
+                        "Speed_y": 92
+                    },
+                    {
+                        "License plate": "RJP-823",
+                        "Speed_x": 84,
+                        "Speed_y": 102
+                    },
+                    {
+                        "License plate": "AVY-043",
+                        "Speed_x": 96,
+                        "Speed_y": 85
+                    },
+                    {
+                        "License plate": "JED-176",
+                        "Speed_x": 98,
+                        "Speed_y": 96
+                    },
+                    {
+                        "License plate": "CHX-390",
+                        "Speed_x": 87,
+                        "Speed_y": 105
+                    },
+                    {
+                        "License plate": "RJS-063",
+                        "Speed_x": 88,
+                        "Speed_y": 90
+                    },
+                    {
+                        "License plate": "TEK-705",
+                        "Speed_x": 97,
+                        "Speed_y": 81
+                    },
+                    {
+                        "License plate": "IXE-097",
+                        "Speed_x": 89,
+                        "Speed_y": 86
+                    },
+                    {
+                        "License plate": "RDI-472",
+                        "Speed_x": 101,
+                        "Speed_y": 92
+                    },
+                    {
+                        "License plate": "TDR-378",
+                        "Speed_x": 87,
+                        "Speed_y": 82
+                    },
+                    {
+                        "License plate": "ABY-673",
+                        "Speed_x": 81,
+                        "Speed_y": 82
+                    },
+                    {
+                        "License plate": "XKM-513",
+                        "Speed_x": 86,
+                        "Speed_y": 86
+                    },
+                    {
+                        "License plate": "QFF-565",
+                        "Speed_x": 102,
+                        "Speed_y": 85
+                    },
+                    {
+                        "License plate": "SOS-357",
+                        "Speed_x": 103,
+                        "Speed_y": 91
+                    },
+                    {
+                        "License plate": "CGQ-740",
+                        "Speed_x": 96,
+                        "Speed_y": 98
+                    },
+                    {
+                        "License plate": "IMT-384",
+                        "Speed_x": 81,
+                        "Speed_y": 100
+                    },
+                    {
+                        "License plate": "DEQ-260",
+                        "Speed_x": 82,
+                        "Speed_y": 81
+                    },
+                    {
+                        "License plate": "PLF-444",
+                        "Speed_x": 86,
+                        "Speed_y": 97
+                    },
+                    {
+                        "License plate": "CLK-388",
+                        "Speed_x": 91,
+                        "Speed_y": 85
+                    },
+                    {
+                        "License plate": "EZQ-935",
+                        "Speed_x": 99,
+                        "Speed_y": 92
+                    },
+                    {
+                        "License plate": "LTP-051",
+                        "Speed_x": 83,
+                        "Speed_y": 84
+                    },
+                    {
+                        "License plate": "LUO-480",
+                        "Speed_x": 83,
+                        "Speed_y": 81
+                    },
+                    {
+                        "License plate": "RDW-799",
+                        "Speed_x": 81,
+                        "Speed_y": 82
+                    }
+                ]
+            }
+        }
+    }
+}
